@@ -18,9 +18,8 @@
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/srini1603/srini1603)**
 
-- 📫 How to reach me **[My Portfolio](ON LOAD)**
+- 📫 How to reach me **[My Portfolio](UNDER CONTRUCTION)**
 
-- ⚡ Fun fact **Cheerful Programmer😂**
 
 ## 🚀 Languages and Tools:
 
