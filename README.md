@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Working on **Open Source Projects**
+- 🔭 I’m currently Working on **Open Source Projects && Personal Project**
 
 - 🌱 I’m currently learning **Flutter, Machine Learning, DSA, Game development.**
 
