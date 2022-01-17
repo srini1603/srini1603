@@ -24,7 +24,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    
+    <a> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
     <a style="padding-right:8px;"  target="_blank"> <img src="https://img.icons8.com/color/48/26e07f/react-native.png"/> </a> 
