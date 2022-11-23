@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter, Machine Learning, DSA, Game development.**
 
-- 💬 Ask me about  Python, C++, Django, Competitive Programming, Java, React Native ,ReactJS, Flutter
+- 💬 Ask me about  Python, C++, Django, Competitive Programming, Java,ReactJS,
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/srini1603/srini1603)**
 
