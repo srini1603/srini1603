@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm srinivasan</h1>
-<h3 align="center"> Full Stack Developer/Student | Python | Django | Flask | React JS | C++ | Java | React Native </h3>
+<h3 align="center"> Full Stack Developer/Student | Python | Django | Flask | React JS | C++ | Java  </h3>
 
 <h1 align = "center">
 
@@ -32,8 +32,6 @@
     <a> <img src="https://img.icons8.com/color/48/26e07f/css3.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/144/26e07f/html-5--v1.png"  width="45" height="45"/> </a>   
     <a> <img src="https://img.icons8.com/color/48/26e07f/java-coffee-cup-logo--v1.png"/></a> 
-    <a> <img src="https://img.icons8.com/color/48/26e07f/flutter.png"/></a>
-    <a> <img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
    
      
 </p>
